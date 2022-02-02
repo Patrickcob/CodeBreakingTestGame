@@ -16,4 +16,4 @@ This is a test project to instruct myself in the world of Unreal classes and lib
 
 ### C. License
 
-There is not license for this project, use it as much as needed.
+There is no license for this project, use it as much as needed.
